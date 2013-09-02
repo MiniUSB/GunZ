@@ -4,10 +4,10 @@ Please note if there are water/craftingtable/brewingstands available.
 
 3400, 1500: A large town, chests: many people here, near a spawnpoint?
 
+3902, 5300: A large coastal town, the piers have 3 boats, all 3 boats spawn weapons, the biggest one named USS YAWPTON provides craftingtables. Spawn #3 is directly next to the USS YAWPTON.
+
 ### Minor locations
 Please note if there are water/craftingtable/brewingstands available.
-
-4000, 5200: A dock with the USS YAWPTON, ~3 chests: Spawnpoint 3-4
 
 4800, 5500: Small town, good weapons: doesn’t seem like there is food, close to a spawnpoint
 
@@ -15,6 +15,7 @@ Please note if there are water/craftingtable/brewingstands available.
 
 900, 5900: PRISON
 
+3700,5500: A few tents
 
 ### Warnings
 
@@ -22,23 +23,23 @@ PRISON: has zombie spawners. Good loot.
 
 
 ### Spawnpoints
-There 16 spawns available which are in a straight line, like in MineZ. Go west for better loot.
+There 15 spawns available which are in a straight line, like in MineZ. Go west for better loot.
 
 3700, 4900: spawn #1 Spawns on a boat, several structures nearby.
 
-????,????: spawn #2 [note]
+4012,5408: spawn #2 Straight west on the road is a car whit a chest. A town is nearby.
 
-????,????: spawn #3 [note]
+4056,5182: spawn #3 Spawns on a pier, next to the USS YAWPTON. The pier belongs to a large city.
 
-????,????: spawn #4 [note]
+3952,6669: spawn #4 Theres a town very close.
 
-????,????: spawn #5 [note]
+3959,6359: spawn #5 Spawns on the other side of the town from #4.
 
-????,????: spawn #6 [note]
+3767,7536: spawn #6 Theres a car whit a Chest and a camp whit a food and a medical chest nearby.
 
 ????,????: spawn #7 [note]
 
-????,????: spawn #8 [note]
+3952,6669: spawn #8 [note]
 
 ????,????: spawn #9 [note]
 
@@ -48,13 +49,11 @@ There 16 spawns available which are in a straight line, like in MineZ. Go west f
 
 ????,????: spawn #12 [note]
 
-????,????: spawn #13 [note]
+3672,5688: spawn #13 [note]
 
-????,????: spawn #14 [note]
+3643,5493: spawn #14 [note]
 
 ????,????: spawn #15 [note]
-
-????,????: spawn #16 [note]
 
 
 ### Reddit post: http://redd.it/1lit5r
