@@ -65,11 +65,5 @@ Click "readme.md" and click "Edit". Add stuff.
 
 
 ####Changelog
-Please add here what got changed/added or removed.
 
-* altered the layout a bit 
-* added "Changelog" and "Citys" 
-* renamed "Locations" to "Minor Locations" 
-* added a note to "Spawnpoints", "Citys", "Minor Locations".
-
-User: XDGrangerDX Date: 01/09/13 (DD/MM/JJ)
+https://github.com/MiniUSB/GunZLocations/pulls?direction=desc&page=1&sort=created&state=closed
