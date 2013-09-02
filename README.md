@@ -67,3 +67,10 @@ Click "readme.md" and click "Edit". Add stuff.
 ####Changelog
 
 https://github.com/MiniUSB/GunZLocations/pulls?direction=desc&page=1&sort=created&state=closed
+
+####Notes
+Everything notable which is not directly related to a location/dangers.
+
+I found a map (http://s1073.photobucket.com/user/patrick_is_kool/media/fc0dae2f-e9b6-45c2-aa0d-88a6f531242f_zps79847b56.jpg.html?t=1378086676) but im not able to update it.
+I also got a piece of info: The currently accesible area is only a small part. The full map will be 8000x12000.
+Source (of both): http://shotbow.net/forum/threads/72940/#post-486688
