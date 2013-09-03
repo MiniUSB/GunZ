@@ -1,4 +1,4 @@
-#### Always round to the nearest hunderd when editing
+#### Always round to the nearest hundred when editing
 
 ### Cities
 Everything bigger than 5 buildings goes here, else Minor locations.
