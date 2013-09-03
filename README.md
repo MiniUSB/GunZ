@@ -1,3 +1,5 @@
+#### Always round to the nearest hunderd when editing
+
 ### Cities
 Everything bigger than 5 buildings goes here, else Minor locations.
 Please note if there are water/craftingtable/brewingstands available.
@@ -66,6 +68,7 @@ Click "readme.md" and click "Edit". Add stuff.
 ####Changelog
 
 https://github.com/MiniUSB/GunZLocations/pulls?direction=desc&page=1&sort=created&state=closed
+https://github.com/MiniUSB/GunZLocations/blame/master/README.md
 
 ####Notes
 Everything notable which is not directly related to a location/dangers.
