@@ -6,7 +6,7 @@ Please note if there are water/craftingtable/brewingstands available.
 
 3400, 1500: A large town, chests: many people here, near a spawnpoint?
 
-3902, 5300: A large coastal town, the piers have 3 boats, all 3 boats spawn weapons, the biggest one named USS YAWPTON provides craftingtables. Spawn #3 is directly next to the USS YAWPTON.
+3900, 5300: A large coastal town, the piers have 3 boats, all 3 boats spawn weapons, the biggest one named USS YAWPTON provides craftingtables. Spawn #3 is directly next to the USS YAWPTON.
 
 ### Minor locations
 Please note if there are water/craftingtable/brewingstands available.
