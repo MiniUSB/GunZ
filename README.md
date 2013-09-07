@@ -8,6 +8,7 @@ Please note if there are water/craftingtable/brewingstands available.
 
 3900, 5300: A large coastal town, the piers have 3 boats, all 3 boats spawn weapons, the biggest one named USS YAWPTON provides craftingtables. Spawn #3 is directly next to the USS YAWPTON.
 
+600, 7200: A housing estate, very far west. Very good military loot and health potions spawn here. There is little to no food. There is water in cauldrons.
 ### Minor locations
 Please note if there are water/craftingtable/brewingstands available.
 
